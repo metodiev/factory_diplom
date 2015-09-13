@@ -1,0 +1,27 @@
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\bin\Debug\FactoryDiplom.exe.config
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\bin\Debug\FactoryDiplom.exe
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\bin\Debug\FactoryDiplom.pdb
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\App.g.cs
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom_MarkupCompile.cache
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom_MarkupCompile.lref
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.g.resources
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.Properties.Resources.resources
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.exe
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.pdb
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\LoginPage.g.cs
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\MainWindow.g.cs
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\LoginPage.baml
+D:\My Documents\Visual Studio 2015\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\MainWindow.baml
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\bin\Debug\FactoryDiplom.exe.config
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.exe
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.pdb
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\MainWindow.g.cs
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\App.g.cs
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom_MarkupCompile.cache
+C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom_MarkupCompile.lref
+C:\Users\Miroslav\Source\Repos\factory_diplom\FactoryDiplom\bin\Debug\FactoryDiplom.exe.config
+C:\Users\Miroslav\Source\Repos\factory_diplom\FactoryDiplom\obj\Debug\FactoryDiplom.exe
