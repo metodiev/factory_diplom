@@ -23,5 +23,3 @@ C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\Pages\MainWindow
 C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\App.g.cs
 C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom_MarkupCompile.cache
 C:\Users\Miroslav\Desktop\FactoryDiplom\FactoryDiplom\obj\Debug\FactoryDiplom_MarkupCompile.lref
-C:\Users\Miroslav\Source\Repos\factory_diplom\FactoryDiplom\bin\Debug\FactoryDiplom.exe.config
-C:\Users\Miroslav\Source\Repos\factory_diplom\FactoryDiplom\obj\Debug\FactoryDiplom.exe
